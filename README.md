@@ -20,7 +20,7 @@ Each column captures a specific aspect of a student’s life, enabling a multidi
 - `Profession`  
 - `Academic Pressure`  
 - `Work Pressure`  
-- `CGPA`  
+- `CGPA` (Cumulative Grade Point Average)
 - `Study Satisfaction`  
 - `Job Satisfaction`  
 - `Sleep Duration`  
@@ -30,10 +30,10 @@ Each column captures a specific aspect of a student’s life, enabling a multidi
 - `Work/Study Hours`  
 - `Financial Stress`  
 - `Family History of Mental Illness`  
-- `Depression`
+- `Depression` (Yes/No)
 
 
-## 🎯 Applications
+## Applications
 
 This dataset can be used for:
 
