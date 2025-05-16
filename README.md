@@ -13,24 +13,25 @@ The [Student Depression Dataset](https://www.kaggle.com/datasets/hopesb/student-
 
 Each column captures a specific aspect of a student’s life, enabling a multidimensional analysis of factors that may contribute to depression.
 
-- `Timestamp`
-- `Age`
-- `Gender`
-- `City`
-- `Depression` (Yes/No)
-- `CGPA` (Cumulative Grade Point Average)
-- `Satisfaction with Studies`
-- `Sleep Duration`
-- `Wakeup Time`
-- `Breakfast`
-- `Balanced Diet`
-- `Physical Activities`
-- `Work Pressure`
-- `Interaction with Friends`
-- `Relationship with Family`
-- `Economic Status`
-- `Job Satisfaction`
-- `Chronic Disease`
+- `id`  
+- `Gender`  
+- `Age`  
+- `City`  
+- `Profession`  
+- `Academic Pressure`  
+- `Work Pressure`  
+- `CGPA`  
+- `Study Satisfaction`  
+- `Job Satisfaction`  
+- `Sleep Duration`  
+- `Dietary Habits`  
+- `Degree`  
+- `Have you ever had suicidal thoughts ?`  
+- `Work/Study Hours`  
+- `Financial Stress`  
+- `Family History of Mental Illness`  
+- `Depression`
+
 
 ## 🎯 Applications
 
