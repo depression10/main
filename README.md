@@ -1,14 +1,14 @@
-# 📊 Student Depression Dataset Overview
+# Student Depression Dataset Overview
 
 The [Student Depression Dataset](https://www.kaggle.com/datasets/hopesb/student-depression-dataset) provides valuable insights into the mental health of students by examining various academic, lifestyle, and emotional factors. It is designed to help researchers and developers analyze depression trends and build predictive models for early intervention.
 
-## 📁 Dataset Details
+## Dataset Details
 
 - **Format**: CSV  
 - **Source**: [Kaggle - Student Depression Dataset](https://www.kaggle.com/datasets/hopesb/student-depression-dataset)  
 - **Attributes**: 18 columns
 
-## 🧾 Columns Included
+## Columns Included
 
 Each column captures a specific aspect of a student’s life, enabling a multidimensional analysis of factors that may contribute to depression.
 
