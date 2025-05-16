@@ -7,7 +7,7 @@ The [Student Depression Dataset](https://www.kaggle.com/datasets/hopesb/student-
 - **Format**: CSV  
 - **Source**: [Kaggle - Student Depression Dataset](https://www.kaggle.com/datasets/hopesb/student-depression-dataset)  
 - **Attributes**: 18 columns
-- - **Rows**: 27901
+- **Rows**: 27901
 
 ## Columns Included
 
